@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: fun greetNeo() = greetUser(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7863#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Thu, 31 Dec 2020 02:12:19 UTC
+record: -1

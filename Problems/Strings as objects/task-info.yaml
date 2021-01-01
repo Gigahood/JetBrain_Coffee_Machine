@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val input = readLine()!!
+        // write code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6782#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #4 of 8. Wrong answer
+  time: Wed, 30 Dec 2020 10:26:28 UTC
+record: -1
